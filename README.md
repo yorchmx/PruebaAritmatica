@@ -1,1 +1,1 @@
-# PruebaAritmatica
+# PruebaAritmetica
