@@ -1,6 +1,6 @@
 public class Aritmetica {
     
-    //atributos de la clase
+    //atributos de la clase un cambio
     int a;
     int b;
     
